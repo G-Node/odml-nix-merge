@@ -1,5 +1,5 @@
 import sys
-from convert import write_recurse
+from odml2nix.convert import write_recurse
 import nixio as nix
 import odml
 import neo

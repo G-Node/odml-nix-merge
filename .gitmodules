@@ -1,0 +1,3 @@
+[submodule "odml2nix"]
+	path = odml2nix
+	url = https://github.com/G-Node/odml-to-nix
